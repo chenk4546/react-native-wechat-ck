@@ -1,0 +1,28 @@
+{
+  "name": "react-native-wechat-ck",
+  "version": "1.0.3",
+  "description": "微信新SDK，除去UIWebview（自用）",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "wechat",
+    "ck",
+    "uiwebview"
+  ],
+  "author": "Kevin Chen",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenk4546/react-native-wechat-ck.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chenk4546/react-native-wechat-ck/issues"
+  },
+  "homepage": "https://github.com/chenk4546/react-native-wechat-ck#readme"
+}
